@@ -161,7 +161,7 @@ get_external(int type, char **p, unsigned *nr_structs,
     } while (0)
 
 /* Type 0 -- BIOS Information */
-#define RELEASE_DATE_STR "01/01/2011"
+#define RELEASE_DATE_STR "05/05/2022"
 static void *
 smbios_init_type_0(void *start)
 {
