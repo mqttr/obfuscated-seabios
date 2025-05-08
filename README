@@ -1,3 +1,8 @@
+# Obfuscated SeaBIOS
+This is a special fork of SeaBIOS for more information view my obfuscated-vm project.
+
+# Original README:
+
 Welcome to the SeaBIOS project!  This project implements an X86 legacy
 bios that is built with standard GNU tools.
 
